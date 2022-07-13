@@ -1,0 +1,8 @@
+{
+  "name": "cra-template-clear-ts",
+  "version": "2.0.0",
+  "description": "Just enough React with TypeScript.",
+  "repository": "git@github.com:davidystephenson/cra-template-clear-ts.git",
+  "author": "David Y. Stephenson <david@davidystephenson.com>",
+  "license": "Unlicense"
+}
