@@ -34,5 +34,14 @@
   "files": [
     "template.json",
     "template"
-  ]
+  ],
+  "author": {
+    "name": "David Y. Stephenson",
+    "email": "david@davidystephenson.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidystephenson/cra-template-clear-ts"
+  },
+  "license": "Unlicense"
 }
